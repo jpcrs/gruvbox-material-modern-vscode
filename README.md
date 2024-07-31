@@ -6,7 +6,7 @@
 𝐃𝐚𝐫𝐤 Medium
 </h2>
 
-![dark-medium](assets/medium.png)
+![dark-medium](assets/dark-medium.png)
 
 <h2 align="center">
 𝐃𝐚𝐫𝐤 Soft
