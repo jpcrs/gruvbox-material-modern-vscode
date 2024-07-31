@@ -1,0 +1,44 @@
+{
+  "name": "gruvbox-material-modern",
+  "displayName": "Gruvbox Material Modern",
+  "description": "Modern version of Gruvbox Material",
+  "version": "0.0.1",
+  "publisher": "jpcrs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpcrs/gruvbox-material-modern-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/jpcrs/gruvbox-material-modern-vscode/issues",
+    "email": "enhancedjax@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "gruvbox",
+    "material",
+    "dark"
+  ],
+  "homepage": "https://github.com/jpcrs/gruvbox-material-modern-vscode",
+  "icon": "assets/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gruvbox Material Modern - Medium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-material-modern-medium-color-theme.json"
+      },
+      {
+        "label": "Gruvbox Material Modern - Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-material-modern-soft-color-theme.json"
+      }
+    ]
+  }
+}
