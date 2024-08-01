@@ -14,7 +14,19 @@
 
 ![dark-medium](assets/soft.png)
 
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=jpcrs.gruvbox-material-modern" alt="Marketplace">
+        <img src="https://img.shields.io/badge/vscode-marketplace-blue" /></a>
+    <a href="https://github.com/jpcrs/gruvbox-material-modern-vscode" alt="Repository">
+        <img src="https://img.shields.io/badge/github-repository-blueviolet" /></a>
+    <a href="https://github.com/jpcrs/gruvbox-material-modern-vscode/issues" alt="Issues">
+        <img src="https://img.shields.io/badge/issue-feedback-red" /></a>
+    <a href="https://vscode.dev/theme/jpcrs.gruvbox-material-modern" alt="Preview">
+        <img src="https://img.shields.io/badge/preview-vscode.dev-yellow" /></a>
+</p>
+
 This color scheme is just a small adaptation of [Gruvbox Material](https://github.com/sainnhe/gruvbox-material), inspired by the modern look of [Github Theme](https://github.com/primer/github-vscode-theme)
+
 
 ## Information
 
